@@ -1,0 +1,48 @@
+[33mcommit c132b65a7d78f7d92d5278644e583bae71e7a736[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: unknown <kovit97@gmail.com>
+Date:   Wed Mar 24 14:24:12 2021 +0900
+
+    check merge
+
+[33mcommit 2a04b5b4587f2339192b8beefebef54383cc893e[m
+Merge: 8facc50 1c7868f
+Author: unknown <kovit97@gmail.com>
+Date:   Wed Mar 10 16:35:58 2021 +0900
+
+    Merge remote-tracking branch 'upstream/main' into main
+
+[33mcommit 8facc50b8b966824b673a4867c09ba4d725f93fd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <kovit97@gmail.com>
+Date:   Wed Mar 10 15:02:38 2021 +0900
+
+    lab 1
+
+[33mcommit 1c7868fe6e6af1275794b4c9970c2fb0798c6f94[m
+Author: Aleksandr Pavlov <7911562+av-pavlov@users.noreply.github.com>
+Date:   Wed Mar 10 12:58:59 2021 +0900
+
+    typo
+
+[33mcommit 71ca4b3dd9e604a9059c8645c708c62215c3ba81[m
+Author: Aleksandr Pavlov <7911562+av-pavlov@users.noreply.github.com>
+Date:   Wed Mar 10 12:56:06 2021 +0900
+
+    matplotlib
+
+[33mcommit de21af5f3208ac1994636429812351cb670cc1e5[m
+Author: Александр Павлов <7911562+av-pavlov@users.noreply.github.com>
+Date:   Wed Mar 3 14:01:27 2021 +0900
+
+    02
+
+[33mcommit e8ebb9c854feb2628a5efad727618243a0ca13dc[m
+Author: Александр Павлов <7911562+av-pavlov@users.noreply.github.com>
+Date:   Wed Feb 17 17:38:01 2021 +0900
+
+    paths
+
+[33mcommit 660320237f28bd2b05fe767980daf6e87253f567[m
+Author: Александр Павлов <7911562+av-pavlov@users.noreply.github.com>
+Date:   Wed Feb 17 17:29:23 2021 +0900
+
+    01
